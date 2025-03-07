@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "com.betOnline.articles",
+  "variantName": "betOnlineArticlesDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 1,
+      "versionName": "1.0.0Articles",
+      "outputFile": "resources-betOnlineArticlesDebug.ap_"
+    }
+  ],
+  "elementType": "File"
+}

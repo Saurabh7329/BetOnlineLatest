@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">176244618435</string>
+    <string name="google_api_key" translatable="false">AIzaSyAHQRhuggCiCOqyOUVOTYCc1oQQu-uV5R8</string>
+    <string name="google_app_id" translatable="false">1:176244618435:android:a69f5b4da0de4a6153de76</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAHQRhuggCiCOqyOUVOTYCc1oQQu-uV5R8</string>
+    <string name="google_storage_bucket" translatable="false">betonline-odds.firebasestorage.app</string>
+    <string name="project_id" translatable="false">betonline-articles</string>
+</resources>
